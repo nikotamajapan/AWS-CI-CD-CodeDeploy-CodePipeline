@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=8mPm7jolnVk
 EC2
 key 
 chmod 400 AWS-CI-CD-CodeDeploy-CodePipeline.pem
+
 mv AWS-CI-CD-CodeDeploy-CodePipeline.pem /Users/mb/.ssh
 
 ---
